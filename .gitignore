@@ -163,6 +163,7 @@ cython_debug/
 .idea
 
 # VSCode
-
 .vscode/
 
+#Jupyter
+.ipynb_checkpoints/
