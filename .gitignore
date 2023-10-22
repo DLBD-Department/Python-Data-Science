@@ -167,4 +167,6 @@ cython_debug/
 
 #Jupyter
 .ipynb_checkpoints/
-Base.csv
+
+# Datasets
+Day2-Pandas/datasets/__util__/Base.csv
